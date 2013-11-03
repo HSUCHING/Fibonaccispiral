@@ -1,0 +1,10 @@
+#canvas{
+    border: 1px solid black;
+}
+
+div#draw{
+    border: 1px solid black;
+    margin: 100px auto;
+    width: 800px;
+    height: 800px;
+}
